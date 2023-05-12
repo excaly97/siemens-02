@@ -1,1 +1,2 @@
 Vjezba 02
+Vjezba 02 - changes made on Github - fetch them to the local build
